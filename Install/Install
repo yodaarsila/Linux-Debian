@@ -6,7 +6,7 @@ case "$1" in
 	"")
 clear
 printf "${blu}Welcome To Debian Termux For Android\n"
-printf "${red}> ${wht}https://github.com/wahasa/Debian"
+printf "${red}> ${wht}https://github.com/yodaarsila/Debian"
 printf "\n\n"
 printf "${ylw}• Debian 13 (Trixie)"
 printf "\n\n"
@@ -47,19 +47,19 @@ printf "${grn}To install run with : Install <${blu}Name${grn}>"
 printf "\n\n"
 	;;
         "DebianDev")
-wget https://raw.githubusercontent.com/wahasa/Debian/main/Install/debian.sh ; chmod +x debian.sh ; bash debian.sh
+wget https://raw.githubusercontent.com/yodaarsila/Debian/main/Install/debian.sh ; chmod +x debian.sh ; bash debian.sh
         ;;
         "Debian13")
-wget https://raw.githubusercontent.com/wahasa/Debian/main/Install/debian13.sh ; chmod +x debian13.sh ; bash debian13.sh
+wget https://raw.githubusercontent.com/yodaarsila/Debian/main/Install/debian13.sh ; chmod +x debian13.sh ; bash debian13.sh
         ;;
         "Debian12")
-wget https://raw.githubusercontent.com/wahasa/Debian/main/Install/debian12.sh ; chmod +x debian12.sh ; bash debian12.sh
+wget https://raw.githubusercontent.com/yodaarsila/Debian/main/Install/debian12.sh ; chmod +x debian12.sh ; bash debian12.sh
         ;;
         "Debian11")
-wget https://raw.githubusercontent.com/wahasa/Debian/main/Install/debian11.sh ; chmod +x debian11.sh ; bash debian11.sh
+wget https://raw.githubusercontent.com/yodaarsila/Debian/main/Install/debian11.sh ; chmod +x debian11.sh ; bash debian11.sh
 	;;
         "Debian10")
-wget https://raw.githubusercontent.com/wahasa/Debian/main/Install/debian10.sh ; chmod +x debian10.sh ; bash debian10.sh
+wget https://raw.githubusercontent.com/yodaarsila/Debian/main/Install/debian10.sh ; chmod +x debian10.sh ; bash debian10.sh
         ;;
         *)
 	bash Install

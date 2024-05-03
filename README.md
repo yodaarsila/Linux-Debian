@@ -51,15 +51,9 @@ on Debian, run this command :
 
 > apt update && apt upgrade
 
-<details></br>
-<summary><b><code>Install Desktop Xfce</code></b></summary>
-<p align="center"><img src="https://github.com/wahasa/Debian/raw/main/Image/xfce.jpg"</p>
-
-
 ```
 apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Debian/main/Desktop/de-xfce.sh ; chmod +x de-xfce.sh ; ./de-xfce.sh
 ```
-</details>
 
 <details></br>
 <summary><b><code>Install Desktop Lxde</code></b></summary>

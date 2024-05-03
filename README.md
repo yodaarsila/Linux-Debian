@@ -76,7 +76,7 @@ Feature
 - [x] Fixed Sound
 - [x] Access to Sdcard
 - [x] Fixed Browser Crash
-- [x] Install Applications [Click here,.](https://github.com/yodaarsila/Debian/main/Apps)
+- [x] Install Applications [Click here,.](https://github.com/yodaarsila/Debian/Tree/main/Apps)
 
 Visit problem now in : [Issues](https://github.com/wahasa/Debian/issues)
 

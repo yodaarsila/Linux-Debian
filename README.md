@@ -7,7 +7,7 @@
 
 ---
 • Install Apps on Android
-- [x] [Termux](https://apkcombo.com/id/termux/com.termux)
+- [x] [Termux](https://github.com/termux/termux-app/releases/tag/v0.118.0)
 - [x] [Vnc Viewer](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android)
 
 ## Installation

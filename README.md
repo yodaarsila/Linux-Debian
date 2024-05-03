@@ -76,7 +76,7 @@ Feature
 - [x] Fixed Sound
 - [x] Access to Sdcard
 - [x] Fixed Browser Crash
-- [x] Install Applications [Click here,.](https://github.com/wahasa/Debian/tree/main/Apps)
+- [x] Install Applications [Click here,.](https://github.com/yodaarsila/Debian/main/Apps)
 
 Visit problem now in : [Issues](https://github.com/wahasa/Debian/issues)
 
@@ -117,6 +117,6 @@ vnc-stop
 </br>
 
 ---
-<p align="center">Good Luck</p>
+<p align="center">YodaArsila2024</p>
 
 ---

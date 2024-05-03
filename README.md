@@ -1,6 +1,6 @@
 
 <p align="center">My Channel</br><b>
-| <a href="https://discord.gg/GCehyym">Discord</a> | <a href="https://youtube.com/channel/UC3sLb7eZCu72iv3G1yUhUHQ">YouTube</a> |</b></p>
+| <a href="https://discord.gg/GCehyym">Discord</a> </a> |</b></p>
 
 ---
 ## Debian on Termux Android
@@ -17,7 +17,7 @@ Copy and paste this command to Termux :
 
 * Install Debian
 ```
-pkg install wget -y ; wget https://raw.githubusercontent.com/wahasa/Debian/main/install.sh ; chmod +x install.sh ; ./install.sh
+pkg install wget -y ; wget https://raw.githubusercontent.com/yodaarsila/Debian/main/install.sh ; chmod +x install.sh ; ./install.sh
 ```
 
 * Start Debian
